@@ -159,7 +159,7 @@
         <ClCompile Include="test_version.cpp"/>
     </ItemGroup>
     <ItemGroup>
-        <Content Include=".github\workflow\release.yml"/>
+        <Content Include=".github\workflows\release.yml"/>
         <Content Include="CMakeLists.txt"/>
         <Content Include="version.h.in"/>
     </ItemGroup>
